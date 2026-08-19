@@ -12,7 +12,7 @@ int main(){
 		} else if (dia == 2) {
 			cout << "segunda-feira" << endl;
 		} else if (dia == 3){
-			cout << "terça-feira" << endl;
+			cout << "terÃ§a-feira" << endl;
 		} else if (dia == 4){
 			cout << "quarta-feira" << endl;
 		} else if (dia == 5){
